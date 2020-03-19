@@ -123,7 +123,7 @@ export default {
 <style scoped> 
     .signup-wrapper{
     border: 1px solid #f2f2f2;
-    width: 50%;
+    width: 40%;
     margin: auto;
     min-width: 400px;
     padding: 50px;
